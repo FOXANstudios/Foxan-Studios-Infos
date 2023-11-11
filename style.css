@@ -5,8 +5,13 @@ body {
 }
 
 h1 {
-    color: ActiveBorder;
-    font-size: 30px;
+    color: white;
+    font-size: 60px;
+}
+
+.normaltext {
+    color: darkred;
+    font-size: initial;
 }
 
 /* ! Header */
@@ -48,4 +53,9 @@ h1 {
     outline-color: darkgray;
     outline-style: auto;
     outline-width: 2px;
+}
+
+.under {
+    padding: 229px 4px 205px 0px;
+    background-color: black;
 }
