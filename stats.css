@@ -53,4 +53,6 @@ h1 {
 .bx bx-loader-alt bx-spin {
     padding: 229px 4px 205px 0px;
     color: red;
+    width: 100%;
+    height: 100%;
 }
