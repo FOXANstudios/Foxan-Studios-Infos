@@ -56,3 +56,8 @@ h1 {
     width: 100%;
     height: 100%;
 }
+
+.inside1 {
+    padding: 100px 5px 0px 40px;
+    color: red;
+}
