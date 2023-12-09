@@ -1,0 +1,61 @@
+/* ! Base Style */
+body {
+    font-family: 'Roboto Mono', monospace;
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    font-size: 60px;
+}
+
+.normaltext {
+    color: darkred;
+    font-size: initial;
+}
+
+/* ! Header */
+
+.header {
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding: 30px;
+    display: flex;
+    background-color: black;
+}
+
+.button {
+    text-decoration: none;
+    padding: 10px 1000px 10px 10px;
+    color: white;
+}
+
+.idk1 {
+    text-decoration: none;
+    padding-left: 10px;
+}
+
+.menu {
+    width: 85%;
+    display: flex;
+}
+
+    .menu li a {
+        color: white;
+        padding: 8px;
+        display: flex;
+    }
+
+.logo {
+    padding: 0px 0px 0px 0px;
+    outline-color: darkgray;
+    outline-style: auto;
+    outline-width: 2px;
+}
+
+.under {
+    padding: 229px 4px 205px 0px;
+    background-color: black;
+}
