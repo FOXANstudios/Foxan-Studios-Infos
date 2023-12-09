@@ -61,3 +61,15 @@ h1 {
     padding: 100px 5px 0px 40px;
     color: red;
 }
+
+.yellow {
+    color: yellow;
+}
+
+.green {
+    color: green;
+}
+
+.red {
+    color: darkred;
+}
