@@ -1,0 +1,27 @@
+﻿body
+{
+    font-family: 'Roboto Mono', monospace;
+    font-size: 12px;
+    background-color: black;
+}
+
+h1 {
+    color: ActiveBorder;
+    font-size: 30px;
+}
+
+.returnto_header{
+    padding-left: 12px;
+    padding-bottom: 300px;
+}
+
+.returnto_add{
+    color: red;
+    text-decoration-style: wavy;
+    font-size: 50px;
+    padding-left: 600px;
+}
+
+.returnto_content{
+    padding-top: 200px;
+}
