@@ -1,0 +1,132 @@
+/* ! Base Style */
+body {
+    font-family: 'Roboto Mono', monospace;
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    font-size: 30px;
+}
+
+p {
+    color: rgb(255, 0, 0);
+    font-size: x-large;
+    font-weight: 100;
+}
+
+small {
+    color: rgb(255, 255, 255);
+    font-size: small;
+}
+
+/* ! Header */
+
+.header {
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding: 30px;
+    display: flex;
+    background-color: black;
+}
+
+.button {
+    text-decoration: none;
+    padding: 10px 1000px 10px 10px;
+    color: white;
+}
+
+.idk1 {
+    text-decoration: none;
+    padding-left: 10px;
+}
+
+.menu {
+    width: 85%;
+    display: flex;
+}
+
+    .menu li a {
+        color: white;
+        padding: 8px;
+        display: flex;
+    }
+
+.logo {
+    padding: 0px 0px 0px 0px;
+    outline-color: darkgray;
+    outline-style: auto;
+    outline-width: 2px;
+}
+
+.bx bx-loader-alt bx-spin {
+    padding: 229px 4px 205px 0px;
+    color: red;
+    width: 100%;
+    height: 100%;
+}
+
+.inside1 {
+    padding: 100px 5px 0px 40px;
+    color: red;
+}
+
+.yellow {
+    color: yellow;
+}
+
+.green {
+    color: green;
+}
+
+.red {
+    color: darkred;
+}
+
+.text {
+    text-align: center;
+}
+
+.textintext1 {
+    align-items: center;
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    border: 2px solid rgb(140 140 140);
+    font-family: sans-serif;
+    font-size: 0.8rem;
+    background-color: antiquewhite;
+    letter-spacing: 1px;
+    align-self: center;
+}
+
+thead,
+tfoot {
+  background-color: rgb(228 240 245);
+}
+
+th,
+td {
+  border: 1px solid rgb(160 160 160);
+  padding: 8px 10px;
+}
+
+td:last-of-type {
+  text-align: center;
+}
+
+tbody > tr:nth-of-type(even) {
+  background-color: rgb(237 238 242);
+}
+
+tfoot th {
+  text-align: right;
+}
+
+tfoot td {
+  font-weight: bold;
+}
