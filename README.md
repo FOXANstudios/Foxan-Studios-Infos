@@ -1,6 +1,9 @@
 # Foxan-Studios-Infos
 > Ciao, questo è il sito ufficiale degli stats e delle Info della **FOXAN Studios**.
 
+<h1>Le info FOXAN!</h1>
+<h4>Sito secondario della FOXAN Studios IT</h4>
+
 # The FOXAN Studios Official Page...
 If you want to visit our page on [github.io](https://redtyyt.github.io/La-Scuola-Infestata)
 
