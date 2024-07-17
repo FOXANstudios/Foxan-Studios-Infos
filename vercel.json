@@ -1,0 +1,28 @@
+{
+    "routes": [
+        {
+            "src": "/",
+            "dest": "/index.html"
+        },
+        {
+            "src": "/index.html",
+            "dest": "/"
+        },
+        {
+            "src": "error",
+            "dest": "404.html"
+        },
+        {
+            "src": "/cosausiamo.html",
+            "dest": "/cosausiamo"
+        },
+        {
+            "src": "/cosausiamo",
+            "dest": "/cosausiamo.html"
+        },
+        {
+            "src": "/LSI_PRODUCT.html",
+            "dest": "/ehi.md"
+        }
+    ]
+}
